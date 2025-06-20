@@ -44,4 +44,3 @@
 </div>
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com/?user=heymegzz)](https://git.io/streak-stats)
