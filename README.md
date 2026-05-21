@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://github.com/heymegzz"><img src="https://skillicons.dev/icons?i=github" /></a>
     <a href="https://www.linkedin.com/in/meghna-nair-159458227/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-    <a href="mailto:meghna.nair2024@nst.rishihood.edu.in"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+    <a href="mailto:meghnanair7469@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
     <a href="https://megzzportfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
   </p>
 </div>
