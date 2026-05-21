@@ -75,8 +75,8 @@ I am a multifaceted **Software Engineer** specializing in **AI/ML, Full-Stack De
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A78BFA&vCenter=true&width=500&lines=%E2%AC%A2+GitHub+Statistics" alt="GitHub Statistics" />
 
 <div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=heymegzz&show_icons=true&theme=tokyonight&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&hide_border=true&include_all_commits=true&count_private=true" height="195" />
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=heymegzz&layout=compact&theme=tokyonight&title_color=a78bfa&text_color=c4b5fd&hide_border=true" height="195" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=heymegzz&show_icons=true&theme=tokyonight&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=heymegzz&layout=compact&theme=tokyonight&title_color=a78bfa&text_color=c4b5fd&hide_border=true&langs_count=8" width="48%" />
 </div>
 <br/>
 <div align="center">
