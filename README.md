@@ -14,6 +14,7 @@
 </table>
 
 hey, I'm Meghna. 19, cs @ nst, delhi.
+
 curiosity has always been my biggest advantage. it keeps pulling me toward new ideas, new technologies, and better ways to solve problems. that's how i found myself building full stack products, exploring ai, working with data, thinking about product, designing experiences, and enjoying the challenge of competitive programming. i love taking ideas from scratch to something real, learning relentlessly along the way, and obsessing over the small details that make a product feel complete.
 
 **Tech Stack**
